@@ -13,9 +13,9 @@ The last feature slightly modifies the model to enhance the reactive power respo
 The upgraded models were implemented using the open-source Modelica language and the OpenIPSL Modelica Library, encouraging collaborative contributions for accelerated model development. 
 To round everything off, a comprehensive comparison and validation against a real PV inverter in laboratory settings, offering an extensive set of simulations and comparisons to existing literature.
 
-We have submitted a paper to the IEEE Transactions on Energy Conversion, which we would welcome you to cite as:
+We have published these results in the following paper, which we would welcome you to cite as:
 
-> Fachini, Fernando, et al. "Customized Open-Source Renewable Energy Models Validated through PHIL Lab Experiments" IEEE Transactions on Energy Conversion (2024)
+>F. Fachini, H. Chang, T. Bogodorova, and L. Vanfretti, “Customized open source renewable energy models validated through PHIL lab experiments,” Renewable Energy, Volume 244, 2025, 122627, ISSN 0960-1481, https://doi.org/10.1016/j.renene.2025.122627
 
 ## Review of the ALSETLab Volta Facility
 

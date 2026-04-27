@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/759252722.svg)](https://doi.org/10.5281/zenodo.19824026)
+
 # OpenRESV - Open Instance Renewable Energy Source Validation
 ## Scope
 The OpenRESV is an open-source Modelica-based library that is focused on modeling and validation of WECC-based renewable energy models. It was built using the Modelica language, leveraging the Modelica Standard Library. 
